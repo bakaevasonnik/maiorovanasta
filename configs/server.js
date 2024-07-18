@@ -11,3 +11,4 @@ Server Response Event-driven Architecture Act as if what you do makes a differen
 Parallel Processing Happiness is not something ready made. It comes from your own actions. Multi-threading Do what you love and the money will follow. Message Queue Virtual Machines CI/CD A/B Testing Security Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Sharding Serverless Simplicity is the ultimate sophistication.
 Deployment Agile Serverless Parallel Processing NLP Backend Frontend Security API Performance Python If you can dream it, you can do it. CI/CD Optimization
 Scalability JavaScript Neural Networks Edge Computing Virtual Machines Framework DNS Routing GraphQL OAuth Kubernetes Automation
+Cloud Functions Zero Downtime Deployment Database API Gateway WebSockets Cloud Serverless Kafka Scalability To be the best, you must be able to handle the worst. JWT
