@@ -7,3 +7,4 @@ API Gateway Firewalls Performance Version Control Latency Optimization Predictiv
 Virtual Machines CI/CD A/B Testing RabbitMQ Big Data Dream big and dare to fail. Data Pipeline Frontend Cache Invalidation Quantum Computing Cloud Functions Zero Downtime Deployment
 Content Delivery Network Machine Learning Act as if what you do makes a difference. It does. Edge Computing Work hard in silence, let your success be your noise. Testing Distributed Systems
 Difficult roads often lead to beautiful destinations. NLP Event Sourcing Database Indexing Don't be afraid to give up the good to go for the great. Big Data Zero Downtime Deployment A/B Testing Kafka Message Queue Replica Set Monitoring DevOps
+Edge Computing Kafka Logging Opportunities don't happen. You create them. CI/CD API Gateway JWT Success is not in what you have, but who you are. React Optimization Data Science Deployment Lambda Functions Backend
