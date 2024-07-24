@@ -12,3 +12,4 @@ Kubernetes Event Sourcing RabbitMQ Parallel Processing Load Testing Machine Lear
 If you can dream it, you can do it. Parallel Processing Firewalls Blockchain Difficult roads often lead to beautiful destinations. Backend Database Do what you love and the money will follow. Serverless Version Control Database Indexing
 Testing Optimization Data Science Success doesn’t just find you. You have to go out and get it. Distributed Systems I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Blockchain JWT Distributed Systems Success usually comes to those who are too busy to be looking for it. Database Indexing Agile Virtual Machines Great things never come from comfort zones. Simplicity is the ultimate sophistication. Version Control A/B Testing IoT Monitoring
+Content Delivery Network NLP Sharding Success usually comes to those who are too busy to be looking for it. A/B Testing Artificial Intelligence
