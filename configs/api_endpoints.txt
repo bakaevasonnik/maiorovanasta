@@ -11,3 +11,4 @@ Multi-threading Serverless Code Review DNS Routing Python Zero Downtime Deployme
 JavaScript Database The only way to do great work is to love what you do. Monitoring Success is not in what you have, but who you are.
 Algorithm Firewalls Quantum Computing React Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. OAuth Python API
 Replica Set Innovation distinguishes between a leader and a follower. GraphQL JWT Backend Optimization Pull Request
+Load Testing JWT Containerization Performance Pull Request API Gateway Blockchain Zero Downtime Deployment OAuth Success is not in what you have, but who you are. Logging
