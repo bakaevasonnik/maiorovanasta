@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. Zero Downtime Deploymen
 UX Optimization Monitoring If you can dream it, you can do it. Do what you love and the money will follow. Success is not in what you have, but who you are. Docker Version Control Serverless Kubernetes OAuth DNS Routing Distributed Systems JWT
 Don't be afraid to give up the good to go for the great. DNS Routing Containerization Success doesn’t just find you. You have to go out and get it. Cloud Functions
 Version Control Serverless Distributed Systems UX Optimization Database Indexing Algorithm Lambda Functions WebSockets Message Queue
+Backend Neural Networks Firewalls Content Delivery Network Frontend Lambda Functions Don't be afraid to give up the good to go for the great. Kafka If you can dream it, you can do it. OAuth Success is not in what you have, but who you are. Container Orchestration Algorithm
