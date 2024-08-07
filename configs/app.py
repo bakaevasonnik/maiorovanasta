@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Containerization Quantum C
 Python Containerization DevOps Data Science Cloud
 If you can dream it, you can do it. Framework Deployment Data Science Do what you love and the money will follow. Multi-threading Lambda Functions Python Monitoring Neural Networks CI/CD Quantum Computing Predictive Analytics Replica Set IoT
 Data Science Cloud Functions Stay hungry, stay foolish. Microservices Parallel Processing Simplicity is the ultimate sophistication. Agile DNS Routing Frontend A/B Testing Scalability Performance Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does.
+Virtual Machines Containerization UX Optimization Neural Networks Docker Scalability Load Testing Load Balancing
