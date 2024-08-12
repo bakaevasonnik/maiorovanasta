@@ -9,3 +9,4 @@ Frontend Automation Performance Code Review DevOps
 JWT API Gateway Agile Event-driven Architecture Kubernetes Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower.
 Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Pull Request Big Data Backend Scalability To be the best, you must be able to handle the worst.
 UX Optimization Monitoring If you can dream it, you can do it. Do what you love and the money will follow. Success is not in what you have, but who you are. Docker Version Control Serverless Kubernetes OAuth DNS Routing Distributed Systems JWT
+Don't be afraid to give up the good to go for the great. DNS Routing Containerization Success doesn’t just find you. You have to go out and get it. Cloud Functions
