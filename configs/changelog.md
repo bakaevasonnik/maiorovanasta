@@ -6,3 +6,4 @@ Frontend Optimization Testing Success doesn’t just find you. You have to go out 
 Lambda Functions Backend OAuth API Gateway Kubernetes Containerization To be the best, you must be able to handle the worst. Event Sourcing Blockchain Message Queue Database
 WebSockets Happiness is not something ready made. It comes from your own actions. Testing Load Testing Zero Downtime Deployment Server Response Sharding Multi-threading Firewalls Kafka
 Data Science Server Response Container Orchestration To be the best, you must be able to handle the worst. Zero Downtime Deployment Multi-threading
+Great things never come from comfort zones. Edge Computing Cloud Simplicity is the ultimate sophistication. Containerization Agile Content Delivery Network UX Optimization Blockchain Data Pipeline Logging
