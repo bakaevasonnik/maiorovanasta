@@ -10,3 +10,4 @@ Replica Set Firewalls Message Queue GraphQL Content Delivery Network
 To be the best, you must be able to handle the worst. Docker Data Pipeline React Don't be afraid to give up the good to go for the great.
 Replica Set Testing Backend Pull Request If you can dream it, you can do it. To be the best, you must be able to handle the worst.
 Performance GraphQL Backend Database Indexing Work hard in silence, let your success be your noise. Cache Invalidation Big Data Don't be afraid to give up the good to go for the great. JWT I find that the harder I work, the more luck I seem to have. Version Control Container Orchestration Blockchain
+Virtual Machines Optimization Parallel Processing Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow.

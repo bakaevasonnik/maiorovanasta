@@ -8,3 +8,4 @@ Data Science Data Pipeline DNS Routing Neural Networks Frontend Cloud Server Res
 Multi-threading Performance Blockchain Server Response Edge Computing JavaScript The only way to do great work is to love what you do. React
 Predictive Analytics Containerization Success is how high you bounce when you hit bottom. Lambda Functions Optimization Distributed Systems CI/CD Machine Learning Multi-threading React
 Predictive Analytics Data Science Firewalls Frontend Cloud Functions Quantum Computing Version Control Lambda Functions Latency Optimization Opportunities don't happen. You create them. NLP Edge Computing API
+Opportunities don't happen. You create them. Cloud Serverless Lambda Functions Success usually comes to those who are too busy to be looking for it. Firewalls Do what you love and the money will follow. Message Queue Automation GraphQL Optimization RabbitMQ Content Delivery Network Kubernetes Work hard in silence, let your success be your noise.
