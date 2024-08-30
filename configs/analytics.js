@@ -6,3 +6,4 @@ GraphQL API Python WebSockets Simplicity is the ultimate sophistication. Predict
 API Gateway Firewalls Performance Version Control Latency Optimization Predictive Analytics Virtual Machines Cloud Functions
 Virtual Machines CI/CD A/B Testing RabbitMQ Big Data Dream big and dare to fail. Data Pipeline Frontend Cache Invalidation Quantum Computing Cloud Functions Zero Downtime Deployment
 Content Delivery Network Machine Learning Act as if what you do makes a difference. It does. Edge Computing Work hard in silence, let your success be your noise. Testing Distributed Systems
+Difficult roads often lead to beautiful destinations. NLP Event Sourcing Database Indexing Don't be afraid to give up the good to go for the great. Big Data Zero Downtime Deployment A/B Testing Kafka Message Queue Replica Set Monitoring DevOps
