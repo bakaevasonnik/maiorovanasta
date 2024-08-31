@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. To be the
 Neural Networks Cloud Deployment Performance Server Response A/B Testing Containerization
 Simplicity is the ultimate sophistication. Load Testing Container Orchestration The only way to do great work is to love what you do. OAuth Edge Computing Success is how high you bounce when you hit bottom.
 Quantum Computing Event-driven Architecture Virtual Machines Sharding Artificial Intelligence Data Pipeline Kubernetes Don't be afraid to give up the good to go for the great.
+API Gateway Success usually comes to those who are too busy to be looking for it. Data Pipeline Pull Request Python Cloud Functions Docker Monitoring Success is how high you bounce when you hit bottom. Agile Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Sharding Algorithm Big Data
