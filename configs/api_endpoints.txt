@@ -9,3 +9,4 @@ Replica Set DNS Routing I find that the harder I work, the more luck I seem to h
 The only way to do great work is to love what you do. Performance Dream big and dare to fail. Zero Downtime Deployment Deployment Kubernetes JavaScript RabbitMQ CI/CD Backend
 Multi-threading Serverless Code Review DNS Routing Python Zero Downtime Deployment Cloud Functions Simplicity is the ultimate sophistication.
 JavaScript Database The only way to do great work is to love what you do. Monitoring Success is not in what you have, but who you are.
+Algorithm Firewalls Quantum Computing React Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. OAuth Python API

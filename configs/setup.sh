@@ -10,3 +10,4 @@ DNS Routing Security Simplicity is the ultimate sophistication. Neural Networks 
 Scalability Dream big and dare to fail. Pull Request Security Optimization Load Testing Do what you love and the money will follow. Load Balancing Content Delivery Network Virtual Machines The only way to do great work is to love what you do.
 Kubernetes Event Sourcing RabbitMQ Parallel Processing Load Testing Machine Learning Framework Neural Networks Cloud JWT Data Science Load Balancing Do what you love and the money will follow. Server Response Latency Optimization
 If you can dream it, you can do it. Parallel Processing Firewalls Blockchain Difficult roads often lead to beautiful destinations. Backend Database Do what you love and the money will follow. Serverless Version Control Database Indexing
+Testing Optimization Data Science Success doesn’t just find you. You have to go out and get it. Distributed Systems I find that the harder I work, the more luck I seem to have.
