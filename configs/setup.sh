@@ -8,3 +8,4 @@ Neural Networks WebSockets Automation Cloud Algorithm Opportunities don't happen
 Code Review Version Control Big Data Frontend JWT UX Optimization Success usually comes to those who are too busy to be looking for it.
 DNS Routing Security Simplicity is the ultimate sophistication. Neural Networks Do what you love and the money will follow. JWT Load Balancing IoT Stay hungry, stay foolish. Kafka Virtual Machines
 Scalability Dream big and dare to fail. Pull Request Security Optimization Load Testing Do what you love and the money will follow. Load Balancing Content Delivery Network Virtual Machines The only way to do great work is to love what you do.
+Kubernetes Event Sourcing RabbitMQ Parallel Processing Load Testing Machine Learning Framework Neural Networks Cloud JWT Data Science Load Balancing Do what you love and the money will follow. Server Response Latency Optimization
