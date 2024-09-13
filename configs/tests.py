@@ -6,3 +6,4 @@ Version Control Blockchain JWT Data Science WebSockets Backend Performance Serve
 API Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Agile API Gateway Python Success is not in what you have, but who you are. JWT Load Balancing Virtual Machines Zero Downtime Deployment Kafka
 DevOps Don't be afraid to give up the good to go for the great. WebSockets Lambda Functions Server Response Frontend Message Queue Algorithm Testing NLP Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Scalability Docker RabbitMQ
 Logging The only way to do great work is to love what you do. Blockchain Event Sourcing Artificial Intelligence Event-driven Architecture Load Testing Lambda Functions
+To be the best, you must be able to handle the worst. Docker Frontend API DevOps Version Control Stay hungry, stay foolish.

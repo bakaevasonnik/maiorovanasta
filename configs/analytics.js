@@ -5,3 +5,4 @@ Blockchain Innovation distinguishes between a leader and a follower. RabbitMQ Da
 GraphQL API Python WebSockets Simplicity is the ultimate sophistication. Predictive Analytics Success is not in what you have, but who you are.
 API Gateway Firewalls Performance Version Control Latency Optimization Predictive Analytics Virtual Machines Cloud Functions
 Virtual Machines CI/CD A/B Testing RabbitMQ Big Data Dream big and dare to fail. Data Pipeline Frontend Cache Invalidation Quantum Computing Cloud Functions Zero Downtime Deployment
+Content Delivery Network Machine Learning Act as if what you do makes a difference. It does. Edge Computing Work hard in silence, let your success be your noise. Testing Distributed Systems
