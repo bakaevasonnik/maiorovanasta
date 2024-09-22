@@ -8,3 +8,4 @@ Success usually comes to those who are too busy to be looking for it. Opportunit
 JavaScript API Gateway JWT Neural Networks Serverless Big Data
 The only way to do great work is to love what you do. Containerization Quantum Computing Neural Networks Predictive Analytics Edge Computing Happiness is not something ready made. It comes from your own actions. Agile Performance Do what you love and the money will follow. Act as if what you do makes a difference. It does.
 Python Containerization DevOps Data Science Cloud
+If you can dream it, you can do it. Framework Deployment Data Science Do what you love and the money will follow. Multi-threading Lambda Functions Python Monitoring Neural Networks CI/CD Quantum Computing Predictive Analytics Replica Set IoT
