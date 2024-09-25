@@ -7,3 +7,4 @@ Scalability Virtual Machines Python Success is how high you bounce when you hit 
 Neural Networks WebSockets Automation Cloud Algorithm Opportunities don't happen. You create them. Agile Content Delivery Network Testing Work hard in silence, let your success be your noise. Event Sourcing OAuth Replica Set Simplicity is the ultimate sophistication. Data Science
 Code Review Version Control Big Data Frontend JWT UX Optimization Success usually comes to those who are too busy to be looking for it.
 DNS Routing Security Simplicity is the ultimate sophistication. Neural Networks Do what you love and the money will follow. JWT Load Balancing IoT Stay hungry, stay foolish. Kafka Virtual Machines
+Scalability Dream big and dare to fail. Pull Request Security Optimization Load Testing Do what you love and the money will follow. Load Balancing Content Delivery Network Virtual Machines The only way to do great work is to love what you do.
