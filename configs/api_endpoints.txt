@@ -7,3 +7,4 @@ Kafka GraphQL Deployment Great things never come from comfort zones. Code Review
 API Gateway Algorithm Content Delivery Network GraphQL Docker Latency Optimization Serverless Dream big and dare to fail. Act as if what you do makes a difference. It does. Python
 Replica Set DNS Routing I find that the harder I work, the more luck I seem to have. Data Pipeline Optimization GraphQL Algorithm Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions.
 The only way to do great work is to love what you do. Performance Dream big and dare to fail. Zero Downtime Deployment Deployment Kubernetes JavaScript RabbitMQ CI/CD Backend
+Multi-threading Serverless Code Review DNS Routing Python Zero Downtime Deployment Cloud Functions Simplicity is the ultimate sophistication.
