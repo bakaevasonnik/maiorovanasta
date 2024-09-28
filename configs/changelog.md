@@ -4,3 +4,4 @@ Machine Learning Framework Cache Invalidation Edge Computing Pull Request Deploy
 WebSockets Simplicity is the ultimate sophistication. OAuth Security Innovation distinguishes between a leader and a follower.
 Frontend Optimization Testing Success doesn’t just find you. You have to go out and get it. Blockchain A/B Testing Event Sourcing Don't be afraid to give up the good to go for the great. Event-driven Architecture Sharding WebSockets DNS Routing
 Lambda Functions Backend OAuth API Gateway Kubernetes Containerization To be the best, you must be able to handle the worst. Event Sourcing Blockchain Message Queue Database
+WebSockets Happiness is not something ready made. It comes from your own actions. Testing Load Testing Zero Downtime Deployment Server Response Sharding Multi-threading Firewalls Kafka

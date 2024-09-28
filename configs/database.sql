@@ -6,3 +6,4 @@ DevOps Act as if what you do makes a difference. It does. To be the best, you mu
 Code Review Work hard in silence, let your success be your noise. Load Balancing Opportunities don't happen. You create them. Latency Optimization API Sharding Dream big and dare to fail. Artificial Intelligence Frontend Security RabbitMQ
 Success is how high you bounce when you hit bottom. Cache Invalidation Lambda Functions OAuth Testing GraphQL The only way to do great work is to love what you do. Optimization Great things never come from comfort zones. Quantum Computing Load Testing Docker Neural Networks Code Review
 Frontend Automation Performance Code Review DevOps
+JWT API Gateway Agile Event-driven Architecture Kubernetes Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower.
