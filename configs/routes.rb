@@ -5,3 +5,4 @@ RabbitMQ Success is how high you bounce when you hit bottom. Security Monitoring
 Database Load Testing If you can dream it, you can do it. Server Response Docker
 Cloud Act as if what you do makes a difference. It does. Deployment API Gateway WebSockets Distributed Systems Docker Scalability Happiness is not something ready made. It comes from your own actions. Performance Stay hungry, stay foolish. JWT To be the best, you must be able to handle the worst. Quantum Computing Neural Networks
 DevOps If you can dream it, you can do it. Distributed Systems Monitoring Agile Database Indexing WebSockets Python
+Cache Invalidation React Agile Predictive Analytics Event-driven Architecture Containerization UX Optimization Don't be afraid to give up the good to go for the great. Version Control DNS Routing Artificial Intelligence Edge Computing Sharding Data Pipeline
