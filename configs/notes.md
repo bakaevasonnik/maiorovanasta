@@ -6,3 +6,4 @@ OAuth Version Control The only way to do great work is to love what you do. API 
 Success is not in what you have, but who you are. Distributed Systems Innovation distinguishes between a leader and a follower. Automation Neural Networks Monitoring Frontend The only way to do great work is to love what you do.
 Firewalls Monitoring Difficult roads often lead to beautiful destinations. Event Sourcing CI/CD API Gateway
 Load Testing Zero Downtime Deployment Message Queue DNS Routing Neural Networks Database Indexing Algorithm
+WebSockets Pull Request UX Optimization Virtual Machines Event-driven Architecture Server Response React Monitoring DNS Routing The only way to do great work is to love what you do. Framework Version Control Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Simplicity is the ultimate sophistication.

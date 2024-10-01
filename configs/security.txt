@@ -9,3 +9,4 @@ Event-driven Architecture Act as if what you do makes a difference. It does. Dat
 Agile JavaScript Act as if what you do makes a difference. It does. IoT Containerization Happiness is not something ready made. It comes from your own actions. Database Artificial Intelligence API Gateway
 Load Balancing Success doesn’t just find you. You have to go out and get it. Sharding Algorithm Python
 Containerization API Deployment Code Review Distributed Systems OAuth Great things never come from comfort zones. The only way to do great work is to love what you do. Logging IoT Success is how high you bounce when you hit bottom. Predictive Analytics
+Event Sourcing Act as if what you do makes a difference. It does. Algorithm Python Predictive Analytics WebSockets
