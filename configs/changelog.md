@@ -3,3 +3,4 @@ Microservices Don't be afraid to give up the good to go for the great. Server Re
 Machine Learning Framework Cache Invalidation Edge Computing Pull Request Deployment Neural Networks Virtual Machines
 WebSockets Simplicity is the ultimate sophistication. OAuth Security Innovation distinguishes between a leader and a follower.
 Frontend Optimization Testing Success doesn’t just find you. You have to go out and get it. Blockchain A/B Testing Event Sourcing Don't be afraid to give up the good to go for the great. Event-driven Architecture Sharding WebSockets DNS Routing
+Lambda Functions Backend OAuth API Gateway Kubernetes Containerization To be the best, you must be able to handle the worst. Event Sourcing Blockchain Message Queue Database
