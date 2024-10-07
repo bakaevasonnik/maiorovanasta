@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. To be the best, you mu
 Content Delivery Network Containerization Cloud Serverless Latency Optimization
 Data Science Data Pipeline DNS Routing Neural Networks Frontend Cloud Server Response Docker Edge Computing Simplicity is the ultimate sophistication. Machine Learning
 Multi-threading Performance Blockchain Server Response Edge Computing JavaScript The only way to do great work is to love what you do. React
+Predictive Analytics Containerization Success is how high you bounce when you hit bottom. Lambda Functions Optimization Distributed Systems CI/CD Machine Learning Multi-threading React
