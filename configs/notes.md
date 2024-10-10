@@ -5,3 +5,4 @@ Artificial Intelligence Success usually comes to those who are too busy to be lo
 OAuth Version Control The only way to do great work is to love what you do. API Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great.
 Success is not in what you have, but who you are. Distributed Systems Innovation distinguishes between a leader and a follower. Automation Neural Networks Monitoring Frontend The only way to do great work is to love what you do.
 Firewalls Monitoring Difficult roads often lead to beautiful destinations. Event Sourcing CI/CD API Gateway
+Load Testing Zero Downtime Deployment Message Queue DNS Routing Neural Networks Database Indexing Algorithm
