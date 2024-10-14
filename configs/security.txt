@@ -7,3 +7,4 @@ GraphQL Do what you love and the money will follow. JavaScript Backend React Hap
 Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Microservices Kafka Pull Request Data Pipeline Server Response Cloud Functions Innovation distinguishes between a leader and a follower. A/B Testing Load Balancing Predictive Analytics Scalability
 Event-driven Architecture Act as if what you do makes a difference. It does. Data Pipeline Happiness is not something ready made. It comes from your own actions. JWT Firewalls Difficult roads often lead to beautiful destinations. Virtual Machines RabbitMQ
 Agile JavaScript Act as if what you do makes a difference. It does. IoT Containerization Happiness is not something ready made. It comes from your own actions. Database Artificial Intelligence API Gateway
+Load Balancing Success doesn’t just find you. You have to go out and get it. Sharding Algorithm Python
