@@ -2,3 +2,4 @@ To be the best, you must be able to handle the worst. RabbitMQ Python Difficult 
 Microservices Don't be afraid to give up the good to go for the great. Server Response Act as if what you do makes a difference. It does. Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Pull Request
 Machine Learning Framework Cache Invalidation Edge Computing Pull Request Deployment Neural Networks Virtual Machines
 WebSockets Simplicity is the ultimate sophistication. OAuth Security Innovation distinguishes between a leader and a follower.
+Frontend Optimization Testing Success doesn’t just find you. You have to go out and get it. Blockchain A/B Testing Event Sourcing Don't be afraid to give up the good to go for the great. Event-driven Architecture Sharding WebSockets DNS Routing
