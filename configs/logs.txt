@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 Cloud Functions Logging Pull Request Database Indexing Event-driven Architecture
 Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation Containerization Cloud Functions UX Optimization Firewalls DNS Routing Kafka
 Content Delivery Network Containerization Cloud Serverless Latency Optimization
+Data Science Data Pipeline DNS Routing Neural Networks Frontend Cloud Server Response Docker Edge Computing Simplicity is the ultimate sophistication. Machine Learning
