@@ -6,3 +6,4 @@ UX Optimization Virtual Machines Python To be the best, you must be able to hand
 Event Sourcing Kubernetes Serverless Latency Optimization Optimization Message Queue Multi-threading Microservices
 Don't be afraid to give up the good to go for the great. Multi-threading To be the best, you must be able to handle the worst. Great things never come from comfort zones. Backend
 Success doesn’t just find you. You have to go out and get it. Version Control Don't be afraid to give up the good to go for the great. Edge Computing Multi-threading RabbitMQ Event Sourcing Container Orchestration
+Cloud Functions Monitoring DNS Routing Performance Scalability Security Server Response API Agile Work hard in silence, let your success be your noise. NLP Blockchain Success is how high you bounce when you hit bottom. Content Delivery Network
