@@ -1,3 +1,4 @@
 To be the best, you must be able to handle the worst. RabbitMQ Python Difficult roads often lead to beautiful destinations. Blockchain Cloud Functions CI/CD Message Queue Success is how high you bounce when you hit bottom. Version Control Firewalls API Multi-threading Optimization The only way to do great work is to love what you do.
 Microservices Don't be afraid to give up the good to go for the great. Server Response Act as if what you do makes a difference. It does. Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Pull Request
 Machine Learning Framework Cache Invalidation Edge Computing Pull Request Deployment Neural Networks Virtual Machines
+WebSockets Simplicity is the ultimate sophistication. OAuth Security Innovation distinguishes between a leader and a follower.

@@ -5,3 +5,4 @@ NLP Scalability Server Response Agile Kubernetes Container Orchestration Event-d
 API Logging NLP Success is how high you bounce when you hit bottom. Cloud Functions Work hard in silence, let your success be your noise. Cache Invalidation
 Scalability Virtual Machines Python Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do. Framework Stay hungry, stay foolish.
 Neural Networks WebSockets Automation Cloud Algorithm Opportunities don't happen. You create them. Agile Content Delivery Network Testing Work hard in silence, let your success be your noise. Event Sourcing OAuth Replica Set Simplicity is the ultimate sophistication. Data Science
+Code Review Version Control Big Data Frontend JWT UX Optimization Success usually comes to those who are too busy to be looking for it.
