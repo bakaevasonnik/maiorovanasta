@@ -5,3 +5,4 @@ OAuth Pull Request Parallel Processing Performance React Optimization Containeri
 UX Optimization Virtual Machines Python To be the best, you must be able to handle the worst. Artificial Intelligence Kafka Parallel Processing Docker Event Sourcing Opportunities don't happen. You create them.
 Event Sourcing Kubernetes Serverless Latency Optimization Optimization Message Queue Multi-threading Microservices
 Don't be afraid to give up the good to go for the great. Multi-threading To be the best, you must be able to handle the worst. Great things never come from comfort zones. Backend
+Success doesn’t just find you. You have to go out and get it. Version Control Don't be afraid to give up the good to go for the great. Edge Computing Multi-threading RabbitMQ Event Sourcing Container Orchestration
