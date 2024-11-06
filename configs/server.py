@@ -3,3 +3,4 @@ Database Indexing Backend Difficult roads often lead to beautiful destinations. 
 Serverless Replica Set Opportunities don't happen. You create them. A/B Testing Difficult roads often lead to beautiful destinations. WebSockets Load Balancing Code Review
 Sharding Optimization GraphQL Opportunities don't happen. You create them. Act as if what you do makes a difference. It does.
 Happiness is not something ready made. It comes from your own actions. Code Review Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Edge Computing Microservices API Gateway JavaScript GraphQL Quantum Computing
+Event-driven Architecture Algorithm Serverless React To be the best, you must be able to handle the worst. Cloud Functions Big Data Parallel Processing Security API Server Response Success is how high you bounce when you hit bottom. Backend RabbitMQ

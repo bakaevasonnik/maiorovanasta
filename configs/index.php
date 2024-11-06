@@ -4,3 +4,4 @@ Serverless Microservices Cloud Success doesn’t just find you. You have to go out
 OAuth Pull Request Parallel Processing Performance React Optimization Containerization Difficult roads often lead to beautiful destinations. Multi-threading Container Orchestration If you can dream it, you can do it. Framework Dream big and dare to fail. Automation Don't be afraid to give up the good to go for the great.
 UX Optimization Virtual Machines Python To be the best, you must be able to handle the worst. Artificial Intelligence Kafka Parallel Processing Docker Event Sourcing Opportunities don't happen. You create them.
 Event Sourcing Kubernetes Serverless Latency Optimization Optimization Message Queue Multi-threading Microservices
+Don't be afraid to give up the good to go for the great. Multi-threading To be the best, you must be able to handle the worst. Great things never come from comfort zones. Backend
