@@ -4,3 +4,4 @@ Database Do what you love and the money will follow. Sharding Data Pipeline If y
 NLP Scalability Server Response Agile Kubernetes Container Orchestration Event-driven Architecture Backend Dream big and dare to fail. Testing Monitoring Cache Invalidation Security Success is how high you bounce when you hit bottom. Edge Computing
 API Logging NLP Success is how high you bounce when you hit bottom. Cloud Functions Work hard in silence, let your success be your noise. Cache Invalidation
 Scalability Virtual Machines Python Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do. Framework Stay hungry, stay foolish.
+Neural Networks WebSockets Automation Cloud Algorithm Opportunities don't happen. You create them. Agile Content Delivery Network Testing Work hard in silence, let your success be your noise. Event Sourcing OAuth Replica Set Simplicity is the ultimate sophistication. Data Science
