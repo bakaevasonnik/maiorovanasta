@@ -4,3 +4,4 @@ Parallel Processing Do what you love and the money will follow. Stay hungry, sta
 Success is not in what you have, but who you are. Do what you love and the money will follow. Framework Predictive Analytics Load Balancing Load Testing Lambda Functions
 Content Delivery Network UX Optimization Cache Invalidation NLP API React Quantum Computing Cloud Functions Containerization Virtual Machines Replica Set Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Data Pipeline CI/CD
 Kafka GraphQL Deployment Great things never come from comfort zones. Code Review Replica Set Stay hungry, stay foolish. Distributed Systems Big Data Dream big and dare to fail.
+API Gateway Algorithm Content Delivery Network GraphQL Docker Latency Optimization Serverless Dream big and dare to fail. Act as if what you do makes a difference. It does. Python

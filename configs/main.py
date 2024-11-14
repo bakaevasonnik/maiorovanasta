@@ -3,3 +3,4 @@ Zero Downtime Deployment Load Balancing Predictive Analytics Agile Backend Shard
 Algorithm JWT Difficult roads often lead to beautiful destinations. OAuth Replica Set A/B Testing Database Automation Performance
 Simplicity is the ultimate sophistication. Frontend To be the best, you must be able to handle the worst. Pull Request CI/CD OAuth
 Code Review Pull Request Event-driven Architecture Zero Downtime Deployment Framework CI/CD Load Balancing Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Edge Computing Monitoring Backend
+Load Testing Automation Success usually comes to those who are too busy to be looking for it. Virtual Machines Frontend Happiness is not something ready made. It comes from your own actions. RabbitMQ Logging Cache Invalidation Multi-threading
