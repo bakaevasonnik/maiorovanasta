@@ -3,3 +3,4 @@ Automation Load Testing Testing If you can dream it, you can do it. Difficult ro
 Stay hungry, stay foolish. Work hard in silence, let your success be your noise. API Algorithm Container Orchestration Difficult roads often lead to beautiful destinations. Logging To be the best, you must be able to handle the worst. JavaScript Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Database Security
 Cloud Functions Logging Pull Request Database Indexing Event-driven Architecture
 Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation Containerization Cloud Functions UX Optimization Firewalls DNS Routing Kafka
+Content Delivery Network Containerization Cloud Serverless Latency Optimization
