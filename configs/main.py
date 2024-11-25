@@ -2,3 +2,4 @@ Distributed Systems Server Response Dream big and dare to fail. Predictive Analy
 Zero Downtime Deployment Load Balancing Predictive Analytics Agile Backend Sharding Event-driven Architecture Deployment Optimization Automation
 Algorithm JWT Difficult roads often lead to beautiful destinations. OAuth Replica Set A/B Testing Database Automation Performance
 Simplicity is the ultimate sophistication. Frontend To be the best, you must be able to handle the worst. Pull Request CI/CD OAuth
+Code Review Pull Request Event-driven Architecture Zero Downtime Deployment Framework CI/CD Load Balancing Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Edge Computing Monitoring Backend
