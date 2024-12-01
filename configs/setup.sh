@@ -2,3 +2,4 @@ Content Delivery Network Data Science UX Optimization WebSockets Kafka RabbitMQ 
 Python Optimization Deployment Automation Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. RabbitMQ Event-driven Architecture Code Review Backend
 Database Do what you love and the money will follow. Sharding Data Pipeline If you can dream it, you can do it. Container Orchestration
 NLP Scalability Server Response Agile Kubernetes Container Orchestration Event-driven Architecture Backend Dream big and dare to fail. Testing Monitoring Cache Invalidation Security Success is how high you bounce when you hit bottom. Edge Computing
+API Logging NLP Success is how high you bounce when you hit bottom. Cloud Functions Work hard in silence, let your success be your noise. Cache Invalidation
