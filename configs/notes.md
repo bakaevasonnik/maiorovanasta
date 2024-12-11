@@ -2,3 +2,4 @@ Deployment Code Review Server Response API Kafka Event-driven Architecture CI/CD
 Work hard in silence, let your success be your noise. Monitoring Cloud Difficult roads often lead to beautiful destinations. API Database
 Zero Downtime Deployment Kubernetes Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Cache Invalidation Serverless Quantum Computing Happiness is not something ready made. It comes from your own actions. Data Pipeline Microservices Python Algorithm
 Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Zero Downtime Deployment IoT Automation Multi-threading
+OAuth Version Control The only way to do great work is to love what you do. API Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great.
