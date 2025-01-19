@@ -1,2 +1,3 @@
 Deployment Code Review Server Response API Kafka Event-driven Architecture CI/CD Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Firewalls Docker Great things never come from comfort zones. Virtual Machines
 Work hard in silence, let your success be your noise. Monitoring Cloud Difficult roads often lead to beautiful destinations. API Database
+Zero Downtime Deployment Kubernetes Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Cache Invalidation Serverless Quantum Computing Happiness is not something ready made. It comes from your own actions. Data Pipeline Microservices Python Algorithm
