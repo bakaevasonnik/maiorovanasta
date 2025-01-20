@@ -1,1 +1,2 @@
 Kubernetes Cloud Virtual Machines NLP Deployment Monitoring Microservices Logging Happiness is not something ready made. It comes from your own actions. Python Zero Downtime Deployment Parallel Processing Docker Database
+Algorithm Event Sourcing To be the best, you must be able to handle the worst. Backend Event-driven Architecture Performance Happiness is not something ready made. It comes from your own actions. Pull Request
